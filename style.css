@@ -16,6 +16,7 @@ header h1{
   padding:0px;
   color:#A39B8B;
 }
+/* This is for overything in the header except the headings*/
 header{
   text-align: center;
   background-color: black;
@@ -39,6 +40,7 @@ hr{
   height: 2px;
   border-color:#F1E9DB;
 }
+/*These control the color of the links before during and after getting clicked as well as hoving*/
 a:link{
   color:#F1E9DB
 }
